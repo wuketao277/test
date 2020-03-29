@@ -12,6 +12,7 @@ import java.lang.reflect.Array;
 public class Application {
     public static void main(String[] args) {
         System.out.println("this is main function");
+        System.out.println("this is main function");
     }
 
 }
